@@ -1,0 +1,30 @@
+body,html{
+	background-color: #ddd;
+	font-family: 'Lato'
+}
+
+form{
+	width: 400px;
+	height: 300px;
+	margin: 10% auto;
+	padding: 8px;
+	background-color: #fff;
+	border:solid 1px #ccc;
+	border-radius: 2px;
+	box-shadow: 0 1px 1px 1px #ccc;
+	text-align: center;
+}
+
+.password-input{
+	padding: 7px 20px;
+	border: rgba(119,119,119,.2) solid 1px;
+	border-radius: 2px;
+}
+
+ul{
+	-webkit-padding-start:0;
+}
+
+li{
+	list-style: none;
+}
