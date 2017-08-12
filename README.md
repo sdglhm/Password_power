@@ -1,10 +1,9 @@
 # Password_power
---
+
 
 A jquery powered javascript snippet for Password input strength metering
 This Jquery powered Javascript snippet will allow you to check strength of your password inputs. 
 
---
 
 #### Usage
 
